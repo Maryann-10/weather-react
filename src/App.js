@@ -19,7 +19,7 @@ function App() {
             Maryann Ichaura
             </a>, {""}is open-sourced on {" "}
             <a 
-            href="" target="_blank" 
+            href="https://github.com/Maryann-10/weather-react" target="_blank" 
             rel="noreferrer"
             >
             GitHub 
