@@ -25,7 +25,7 @@ function App() {
             GitHub 
             </a>
             {" "}and hosted on 
-            <a href=''> Netlify</a>.
+            <a href='https://github.com/Maryann-10/weather-react'> Netlify</a>.
         </footer>
       </div>
     </div>
